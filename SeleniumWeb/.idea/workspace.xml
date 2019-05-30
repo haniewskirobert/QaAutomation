@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7686903c-69b5-48c3-943e-14c7313c0118" name="Default" comment="first commit on the day">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Actions/SiteActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Actions/SiteActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Configuration/WebDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Configuration/WebDriverSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Pages/SitePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Pages/SitePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Tests/SiteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Tests/SiteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Utilities/WaitUtilites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Utilities/WaitUtilites.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Valdators/SiteValidators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjectPatern/Valdators/SiteValidators.java" afterDir="false" />
-    </list>
+    <list default="true" id="7686903c-69b5-48c3-943e-14c7313c0118" name="Default" comment="first commit on the day" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Utilities/WaitUtilites.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="85">
               <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -49,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Tests/SiteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
+            <state relative-caret-position="612">
               <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
             </state>
           </provider>
@@ -59,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Valdators/SiteValidators.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -86,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Configuration/WebDriverSetup.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -124,7 +114,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -173,110 +163,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjectPatern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjectPatern" type="462c0819:PsiDirectoryNode" />
-              <item name="Actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjectPatern" type="462c0819:PsiDirectoryNode" />
-              <item name="Configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjectPatern" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjectPatern" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjectPatern" type="462c0819:PsiDirectoryNode" />
-              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MRatyna_Awesome_Qa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MRatyna_Awesome_Qa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PageObjectPatern" type="462c0819:PsiDirectoryNode" />
-              <item name="Valdators" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/qa/MRatyna_Awesome_Qa" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -447,8 +347,8 @@
     <list>
       <item itemvalue="JUnit.SiteTest" />
       <item itemvalue="JUnit.SiteTest.logCorrect" />
-      <item itemvalue="JUnit.SiteTest.logIncorrect" />
       <item itemvalue="JUnit.SiteTest.logEmpty" />
+      <item itemvalue="JUnit.SiteTest.logIncorrect" />
       <item itemvalue="JUnit.SiteTest.logout" />
     </list>
     <recent_temporary>
@@ -562,17 +462,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981203" visible="true" weight="0.14925373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981203" visible="true" weight="0.15085287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5018797" side_tool="true" weight="0.18294749" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8507463" weight="0.27124184" />
@@ -580,11 +477,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49626866" visible="true" weight="0.17768148" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49573562" visible="true" weight="0.17768148" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49971768" weight="0.32897604" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.17768148" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5042644" side_tool="true" visible="true" weight="0.17768148" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.7684564" weight="0.24786325" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -595,6 +493,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981203" visible="true" weight="0.21744967" />
@@ -737,30 +636,11 @@
     <entry file="file://$USER_HOME$/qa/edgeone/src/test/java/PageObjectPatern/Pages/SitePage.java" />
     <entry file="file://$USER_HOME$/qa/edgeone/src/test/java/PageObjectPatern/Actions/SiteActions.java" />
     <entry file="file://$USER_HOME$/qa/edgeone/src/test/java/PageObjectPatern/Tests/SiteTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Valdators/SiteValidators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FirstTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FirstTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FirstTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Utilities/WaitUtilites.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="85">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -770,15 +650,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Tests/SiteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
+        <state relative-caret-position="612">
           <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Actions/SiteActions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Valdators/SiteValidators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="170">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -789,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Configuration/WebDriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Configuration/DefaultWebDriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -803,10 +676,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Configuration/WebDriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Actions/SiteActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectPatern/Configuration/WebDriverSetup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -850,7 +737,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -867,7 +754,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
