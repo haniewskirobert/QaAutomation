@@ -12,6 +12,9 @@ public class AndroidDriverSetUp extends AppiumServiceSetUp {
 
     private static AndroidDriver<AndroidElement> driver;
 
+    private final static String DEVICE_NAME = "deviceName";
+    private final static String APP = "app";
+
     public static void setUpDriver() {
 
         File classpathRoot = new File(System.getProperty("user.dir"));
@@ -22,8 +25,8 @@ public class AndroidDriverSetUp extends AppiumServiceSetUp {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        private static final DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability("deviceName", "Android Emulator");
+        private DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability(DEVICE_NAME, APP);
         capabilities.setCapability("app", app.getAbsolutePath());
         capabilities.setCapability("appPackage", "com.MyTest.app.package");
         capabilities.setCapability("appActivity", "md50252f187319a073d52ae253169c089a4.SplashScreen");
