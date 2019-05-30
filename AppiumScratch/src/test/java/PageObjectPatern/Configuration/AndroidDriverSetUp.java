@@ -22,7 +22,7 @@ public class AndroidDriverSetUp extends AppiumServiceSetUp {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        DesiredCapabilities capabilities = new DesiredCapabilities();
+        private static final DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("deviceName", "Android Emulator");
         capabilities.setCapability("app", app.getAbsolutePath());
         capabilities.setCapability("appPackage", "com.MyTest.app.package");

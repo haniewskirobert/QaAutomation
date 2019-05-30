@@ -43,7 +43,6 @@ public class SiteTest {
 
     @Test
     public void logCorrect(){
-       // SitePage sitePage = new SitePage(); /** usunięte bo wyżej jest **/
         siteAction.clearAndSendText(sitePage.userTextbox(),"TestAccount");
         siteAction.clearAndSendText(sitePage.passwordTextbox(),"TestPassword");
         siteAction.performClick(sitePage.getLoginButton());

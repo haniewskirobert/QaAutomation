@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class WaitUtilites {
     
-    public void SimpleWait() {
+    public void simpleWait() {
         try {
             Thread.sleep(500);
         }
@@ -17,7 +17,7 @@ public class WaitUtilites {
         }
     }
 
-    public void WaitToElemetVisibility(WebElement webElement) {
+    public void waitToElemetVisibility(WebElement webElement) {
 
         WebDriverWait wait = new WebDriverWait(WebDriverSetup.driver, 20);
         wait.until(ExpectedConditions.visibilityOf(webElement));
